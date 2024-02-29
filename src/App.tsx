@@ -30,7 +30,7 @@ function App() {
     <div>
       <ListGroup
         items={items}
-        heading="Cities"
+        heading="The Watering Hole"
         onSelectItem={handleSelectItem}
       />
     </div>
