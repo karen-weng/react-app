@@ -19,6 +19,7 @@ function App() {
     "Nathaniel",
     "Evan",
     "Leo",
+    "Derek",
     "Karen",
   ];
 
